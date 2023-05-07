@@ -2,5 +2,31 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
+<<<<<<< Updated upstream
 	"Description": ""
+=======
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EditorTests",
+			"Enabled": true
+		},
+		{
+			"Name": "FbxAutomationTestBuilder",
+			"Enabled": true
+		},
+		{
+			"Name": "FunctionalTestingEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "RuntimeTests",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+>>>>>>> Stashed changes
 }
