@@ -1,8 +1,11 @@
 Footsteps by Kenney Vleugels (Kenney.nl)
 Creative Commons Zero, CC0
 
-Magma Ambience by Blender Foundation
+Yo Frankie! Lava Loop by Blender Foundation
 Attribution 3.0 Unported (CC BY 3.0)
+
+Lava Loop by Audionautics at Freesound.org
+Attribution 3.0 Unported (CC BY 3.0) 
 
 Magma Hiss by p0ss on OpenGameArt.org
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
@@ -10,3 +13,15 @@ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 Coin and Checkpoint pickup by Morten Barfod Søegaard at Little Robot Sound Factory
 Attribution 3.0 Unported (CC BY 3.0)
 
+Dungeon Ambient by JaggedStone on OpenGameArt.org
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication 
+
+Fire Loop by Robinhood76 at Freesound.org
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 
+
+Lava Splash by Michel Baradari on OpenGameArt.org
+Attribution 3.0 Unported (CC BY 3.0) 
+
+Dash Swoosh, lever clunk, and checkpoink pickup by FilmCow at filmcow.itch.io
+
+Door open/close and Tundra ambience by Shapeforms Audio at shapeforms.itch.io
